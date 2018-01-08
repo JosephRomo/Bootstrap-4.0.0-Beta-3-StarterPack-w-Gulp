@@ -10,10 +10,12 @@ How To Use:
 
 2) Using terminal, type 'npm install' This will install of the dependencies
 
+MAKE SURE YOU HAVE Node.js (NPM) Installed BEFORE Using. 
 
-This package includes:
-MAKE SURE YOU HAVE Node.js (NPM) Installed BEFORE Using. Then in your command line, in the directory of this folder, type in 'npm install'. This will install Gulp (task manager). Once installed, you are ready to go. To open the dev server and compile all of the files do the following: in command line, change your directory to your project folder, while in you project folder, type 'gulp', the script will run and a browserSync window should pop-up. Refresh as you write your code to see your changes live
+Then in your command line, in the directory of this folder, type in 'npm install'. This will install Gulp (task manager). Once installed, you are ready to go. To open the dev server and compile all of the files do the following: in command line, change your directory to your project folder, while in you project folder, type 'gulp', the script will run and a browserSync window should pop-up. Refresh as you write your code to see your changes live
 
+INCLUDES:
+------------
 Bootstrap 4.0.0 Beta 3! (Released 12/27/2017)
 Jarallax (a lightweight, no dependancy Parallax JS library
 Font Awesome 4.7.0 for your icon needs!
