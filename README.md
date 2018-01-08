@@ -16,9 +16,9 @@ Then in your command line, in the directory of this folder, type in 'npm install
 
 INCLUDES:
 ------------
-Bootstrap 4.0.0 Beta 3! (Released 12/27/2017)
-Jarallax (a lightweight, no dependancy Parallax JS library
-Font Awesome 4.7.0 for your icon needs!
-Featherlight (An ultra slim JQuery lightbox
+1. Bootstrap 4.0.0 Beta 3! (Released 12/27/2017)
+2. Jarallax (a lightweight, no dependancy Parallax JS library
+3. Font Awesome 4.7.0 for your icon needs!
+4. Featherlight (An ultra slim JQuery lightbox
 
 
