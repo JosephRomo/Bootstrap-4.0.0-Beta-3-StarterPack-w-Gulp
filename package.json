@@ -1,0 +1,53 @@
+{
+  "name": "bootstrap_4.0.0.beta3_starter_pack_with_jarallax",
+  "version": "1.0.0",
+  "description": "a starter pack made by Joseph A. Romo for personal use only. Inculdes the open-source jarallax as well for parallax effect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephRomo/Bootstrap-4.0.0-Beta-3-StarterPack-w-Gulp.git"
+  },
+  "author": "Joseph A. Romo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JosephRomo/Bootstrap-4.0.0-Beta-3-StarterPack-w-Gulp/issues"
+  },
+  "homepage": "https://github.com/JosephRomo/Bootstrap-4.0.0-Beta-3-StarterPack-w-Gulp#readme",
+  "dependencies": {
+    "bootstrap": "4.0.0-beta.3",
+    "featherlight": "^1.7.12",
+    "font-awesome": "^4.7.0",
+    "jarallax": "^1.9.3",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {
+    "ajv-keywords": "^3.0.0",
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "browser-sync": "^2.23.3",
+    "del": "^3.0.0",
+    "eslint": "^4.15.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.5.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-header": "^1.8.9",
+    "gulp-if": "^2.0.2",
+    "gulp-iife": "^0.3.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "json-file": "^0.1.0",
+    "node-qunit-phantomjs": "^2.0.0",
+    "object-fit-images": "^3.2.3",
+    "qunitjs": "^2.4.1"
+  }
+}
